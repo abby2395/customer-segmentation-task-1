@@ -28,14 +28,14 @@ To run the project, ensure you have the following installed:
 ## Getting Started
 
 1. **Clone the Repository:**
-   ```bash
+   ```
    git clone [repository_url]
    cd customer-segmentation
    ```
 
 2. **Install Dependencies:**
    ```bash
-   pip install numpy pandas scikit-learn matplotlib
+   pip install -r requirements.txt
    ```
 
 3. **Run the Analysis:**
